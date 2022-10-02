@@ -1,2 +1,0 @@
-# checkpointFinal
-Checkpoint_3_Prog_Imperativa
